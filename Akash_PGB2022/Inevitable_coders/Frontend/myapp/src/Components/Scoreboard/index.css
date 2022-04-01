@@ -18,15 +18,42 @@
     border-radius: 10px;
     
 }
+.score-para{
+    font-family:"serif";
+    color: brown;
+    font-size:25px;
+    font-weight: 600;
+}
 .score-head{
     font-family:"serif";
     font-size:38px;
     font-weight: 600;
     color:#3F33FF;
 }
+.score-bottom{
+    font-family:"serif";
+    font-weight: 700;
+}
 .spanE{
     color: red;
 }
 .spanE1{
     color: green;
+}
+.level-button{
+    color:black;
+    background-color:#00bfff;
+    height: 40px;
+    font-family: "Roboto";
+    font-weight:700;
+    padding: 10px;
+    font-size: 18px;
+    border-width: 0px;
+    border-radius: 5px;      
+}
+.imageE{
+    width:50%;
+}
+.emojiE{
+    font-size:85px;
 }
